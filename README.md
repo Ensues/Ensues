@@ -4,9 +4,15 @@
 
 I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State University helping in building the digital world one step at a time. All coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
 
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=blux" alt="GitHub Streak" /></a>
+</div>
+
 <br> 
 
-<div>
+<div align="center">
   <a href="https://discordapp.com/users/Sen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
@@ -58,11 +64,6 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
-</div>
-
-# 📊 Stats
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=blux" alt="GitHub Streak" /></a>
 </div>
 
 
