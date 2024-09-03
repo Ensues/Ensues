@@ -6,7 +6,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 
 <div align="center">
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=blux" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=tokyonight" alt="GitHub Streak" /></a>
   <br> 
   <a href="https://discordapp.com/users/Sen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
@@ -61,6 +61,25 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
 </div>
+<br>
+<br>
+<div align="center">
+  
+  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Auto-File-Management) 
+  [![Ensues](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Ensues)
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs">
+</p>
 
 
 <!--
