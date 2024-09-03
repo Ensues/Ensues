@@ -65,8 +65,8 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 <br>
 <div align="center">
   
-  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Auto-File-Management) 
-  [![Ensues](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Ensues)
+  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&border_color=66fcf1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Auto-File-Management) 
+  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&border_color=66fcf1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Ensues)
 </div>
 
 
@@ -78,7 +78,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=donut" alt="Top Langs">
 </p>
 
 
