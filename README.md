@@ -34,7 +34,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 
 <div align="center">
 
-  <h2> 🧰 Tools and Languages</h2> 
+  <h2> 🧰 Tools and Languages 🗣️ </h2> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="12" />
