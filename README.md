@@ -65,8 +65,8 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 <br>
 <div align="center">
   
-  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&border_color=66fcf1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Auto-File-Management) 
-  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&border_color=66fcf1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ensues/Ensues)
+  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=tokyonight)](https://github.com/Ensues/Auto-File-Management) 
+  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&theme=tokyonight)](https://github.com/Ensues/Ensues)
 </div>
 
 
