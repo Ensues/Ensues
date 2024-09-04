@@ -5,13 +5,6 @@
 I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State University helping in building the digital world one step at a time. Whose coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
 
 <div align="center">
-  <div style="width: 20px;">
-    <h3>"You'll never know how good you might have become unless you try"</h3>
-    <h4> - Mike Mentzer </h4>
-  </div>
-</div>
-
-<div align="center">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=tokyonight" alt="GitHub Streak" /></a>
   <br> 
@@ -83,6 +76,13 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=donut" alt="Top Langs">
 </p>
+
+<div align="center">
+  <div style="width: 20px;">
+    <h3>"You'll never know how good you might have become unless you try"</h3>
+    <h4> - Mike Mentzer </h4>
+  </div>
+</div>
 
 
 
