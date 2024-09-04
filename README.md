@@ -77,6 +77,8 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=donut" alt="Top Langs">
 </p>
 
+---
+
 <div align="center">
   <div style="width: 20px;">
     <h3>"You'll never know how good you might have become unless you try"</h3>
