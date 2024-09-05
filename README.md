@@ -59,6 +59,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 </div>
 <br>
 <br>
+
 <div alight="center")
   [![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake.gif)](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake.gif)
 </div>
