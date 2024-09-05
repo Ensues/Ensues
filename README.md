@@ -60,10 +60,6 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 <br>
 <br>
 
-<div align="center")
-  ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake.gif)
-</div>
-
 <div align="center">
   
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=tokyonight)](https://github.com/Ensues/Auto-File-Management) 
