@@ -51,6 +51,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
 </div>
+
 <br>
 <br>
 
@@ -60,11 +61,9 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
   [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&theme=tokyonight)](https://github.com/Ensues/Ensues)
 </div>
 
-
 <p align="center">
   <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 
 <br>
 
@@ -80,39 +79,3 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
     <h4> - Mike Mentzer </h4>
   </div>
 </div>
-
-
-
-<!--
-**Ensues/Ensues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 
-### 💪 Skills
-<ul>
-  <li> 🐍 Python (matplotlib, numpy, pandas)</li>
-  <li> 🌐 HTML, CSS, JavaScript </li>
-  <li> ♨️ Java (Java Swing)</li>
-  <li> 🗄️ SQL </li>
-  <li> 🗒️ VB.NET</li>
-</ul>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
-  <img width="12" />
-
--->
