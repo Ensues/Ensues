@@ -36,7 +36,7 @@ I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State 
 
   <h2> 🧰 Skills and Technologies 🗣️ </h2> 
 
-  #### Languages:
+  #### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
