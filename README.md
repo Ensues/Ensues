@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer / Designer / Programmer)`**
 
-I'm a 3rd Year Bachelors Of Science In Computer Science student at Tarlac State University helping in building the digital world one step at a time. Whose coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
+I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. Whose coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
 
 <div align="center">
   <br>
