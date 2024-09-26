@@ -63,12 +63,16 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="35" alt="visualstudio logo"  />
   <img width="12" />
+  <!--- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
   <img width="12" />
+  -->
 
   #### Tools and Technologies
+  <!--- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="12" />
 </div>
