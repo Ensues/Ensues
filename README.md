@@ -6,7 +6,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
 As of now I'm interested and studying in three fields:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
-- <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
+- <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib }, Java, & Excel | Sheets
 - <b> Quant Analyst </b> - Python { Numpy, Pandas, Matplotlib } & Java
 
 <div align="center">
