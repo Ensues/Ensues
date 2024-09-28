@@ -40,6 +40,9 @@ As of now I'm specifically studying about two things:
 
   <h2> 🧰 Skills & Technologies 🗣️ </h2> 
 
+  <img align="right" alt="totoro" width="400" src="gigi.webp" > 
+
+
   #### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
@@ -85,6 +88,7 @@ As of now I'm specifically studying about two things:
   <img width="12" />
 </div>
 
+<br>
 <br>
 <br>
 
