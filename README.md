@@ -41,7 +41,7 @@ As of now I'm interested and studying in three fields:
 
   <h2> 🧰 Skills & Technologies 🗣️ </h2> 
 
-  <img align="right" alt="totoro" width="300" src="totoro.webp" > 
+  <img align="right" alt="totoro" width="30%" src="totoro.webp" > 
 
 
   #### Languages
