@@ -7,7 +7,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 As of now I'm interested and studying in three fields:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
 - <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
-- <b> Quantitative Finance </b> - Python { Numpy, Pandas, Matplotlib } 
+- <b> Quant Analyst </b> - Python { Numpy, Pandas, Matplotlib } & Java
 
 <div align="center">
   <br>
@@ -61,7 +61,7 @@ As of now I'm interested and studying in three fields:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="40" alt="visualbasic logo"  />
   <img width="12" />
 
-  #### Data Science & Quant Finance
+  #### Data Science & Quant Analyst 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
