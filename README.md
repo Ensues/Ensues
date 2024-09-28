@@ -83,7 +83,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 <div align="center">
   
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=tokyonight)](https://github.com/Ensues/Auto-File-Management) 
-  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues&theme=tokyonight)](https://github.com/Ensues/Ensues)
+  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=tokyonight)](https://github.com/Ensues/Resume-Website-V1)
 </div>
 
 <p align="center">
