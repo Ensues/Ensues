@@ -5,8 +5,8 @@
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. My coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I like designing and talking to sneks 🐍🐍🐍
 
 As of now I'm specifically studying about two things:
-- <b> Full Stack Web Development </b> ( HTML, CSS, JavaScript )
-- <b> Data Science </b> ( Python { Numpy, Pandas, Matplotlib } )
+- <b> Full Stack Web Development </b> ( HTML, CSS, & JavaScript )
+- <b> Data Science </b> ( Python { Numpy, Pandas, Matplotlib } & SQL)
 
 <div align="center">
   <br>
@@ -48,6 +48,8 @@ As of now I'm specifically studying about two things:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
