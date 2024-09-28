@@ -7,7 +7,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 As of now I'm specifically studying about two fields:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
 - <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
-- <b> Quanttitative Finance </b> - Python { Numpy, Pandas, Matplotlib } 
+- <b> Quantitative Finance </b> - Python { Numpy, Pandas, Matplotlib } 
 
 <div align="center">
   <br>
