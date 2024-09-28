@@ -86,10 +86,10 @@ As of now I'm specifically studying about two things:
 
 <div align="center">
 
+  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=tokyonight)](https://github.com/Ensues/Resume-Website-V1)
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=tokyonight)](https://github.com/Ensues/Auto-File-Management) 
-  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=tokyonight)](https://github.com/Ensues/Resume-Website-V1)
-  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=tokyonight)](https://github.com/Ensues/QR-Code-Generator) 
-  [![Ensues ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=tokyonight)](https://github.com/Ensues/Calculator)
+  [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=tokyonight)](https://github.com/Ensues/Calculator)
+  [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=tokyonight)](https://github.com/Ensues/QR-Code-Generator) 
 </div>
 
 <p align="center">
