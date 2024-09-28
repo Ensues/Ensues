@@ -39,7 +39,7 @@ As of now I'm interested and studying in three fields:
 
 <div>
 
-  <h2> 🧰 Skills & Technologies 🗣️ </h2> 
+  <h2 align="center"> 🧰 Skills & Technologies 🗣️ </h2> 
 
   <img align="right" alt="totoro" width="425" src="gigi.webp" > 
   
