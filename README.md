@@ -4,7 +4,7 @@
 
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. Whose coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
 
-As of now I'm specifically studying about two things: Full Stack Web Development ( HTML, CSS, JavaScript ) & Data Science ( Python { Numpy, Pandas, Matplotlib } )
+As of now I'm specifically studying about two things: <b> Full Stack Web Development </b> ( HTML, CSS, JavaScript ) & <b> Data Science </b> ( Python { Numpy, Pandas, Matplotlib } )
 
 <div align="center">
   <br>
