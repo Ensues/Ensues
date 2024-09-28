@@ -8,8 +8,6 @@ As of now I'm specifically studying about two things:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
 - <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
 
-![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
-
 <div align="center">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=catppuccin_mocha" alt="GitHub Streak" /></a>
@@ -96,11 +94,11 @@ As of now I'm specifically studying about two things:
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
   [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=catppuccin_mocha)](https://github.com/Ensues/Calculator)
   [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=catppuccin_mocha)](https://github.com/Ensues/QR-Code-Generator) 
-</div>
 
-<p align="center">
   <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+
+  ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 <br>
 
