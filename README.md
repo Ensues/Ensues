@@ -61,7 +61,7 @@ As of now I'm interested and studying in three fields:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="40" alt="visualbasic logo"  />
   <img width="12" />
 
-  #### Data Science
+  #### Data Science & Quant Finance
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
