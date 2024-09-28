@@ -38,7 +38,7 @@ As of now I'm specifically studying about two things:
 
 <div align="center">
 
-  <h2> 🧰 Skills and Technologies 🗣️ </h2> 
+  <h2> 🧰 Skills & Technologies 🗣️ </h2> 
 
   #### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -47,8 +47,10 @@ As of now I'm specifically studying about two things:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://
+  <!--- cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
+  --->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
@@ -74,7 +76,7 @@ As of now I'm specifically studying about two things:
   <img width="12" />
   -->
 
-  #### Tools and Technologies
+  #### Tools & Tech
   <!--- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
   <img width="12" />
