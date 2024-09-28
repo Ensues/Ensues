@@ -6,7 +6,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
 As of now I'm specifically studying about two things:
 - <b> Full Stack Web Development </b> ( HTML, CSS, & JavaScript )
-- <b> Data Science </b> ( Python { Numpy, Pandas, Matplotlib }, SQL, & Excel / Sheets)
+- <b> Data Science </b> ( Python { Numpy, Pandas, Matplotlib }, MySQL, & Excel / Sheets)
 
 <div align="center">
   <br>
