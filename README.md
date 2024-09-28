@@ -40,7 +40,7 @@ As of now I'm specifically studying about two fields:
 
   <h2> 🧰 Skills & Technologies 🗣️ </h2> 
 
-  <img align="right" alt="totoro" width="400" src="gigi.webp" > 
+  <img align="right" alt="totoro" width="300" src="totoro.webp" > 
 
 
   #### Languages
