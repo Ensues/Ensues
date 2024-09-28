@@ -8,6 +8,8 @@ As of now I'm specifically studying about two things:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
 - <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
 
+![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=catppuccin_mocha" alt="GitHub Streak" /></a>
