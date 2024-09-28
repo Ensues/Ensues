@@ -4,7 +4,7 @@
 
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. My coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I like designing, data, and money 🎨📊💸
 
-As of now I'm specifically studying about two fields:
+As of now I'm interested and studying in three fields:
 - <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
 - <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib } & Excel | Sheets
 - <b> Quantitative Finance </b> - Python { Numpy, Pandas, Matplotlib } 
