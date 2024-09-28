@@ -10,7 +10,7 @@ As of now I'm specifically studying about two things:
 
 <div align="center">
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=catppuccin_mocha" alt="GitHub Streak" /></a>
   <br> 
   <a href="https://discordapp.com/users/Sen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
@@ -86,10 +86,10 @@ As of now I'm specifically studying about two things:
 
 <div align="center">
 
-  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=tokyonight)](https://github.com/Ensues/Resume-Website-V1)
-  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=tokyonight)](https://github.com/Ensues/Auto-File-Management) 
-  [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=tokyonight)](https://github.com/Ensues/Calculator)
-  [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=tokyonight)](https://github.com/Ensues/QR-Code-Generator) 
+  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=catppuccin_mocha)](https://github.com/Ensues/Resume-Website-V1)
+  [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
+  [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=catppuccin_mocha)](https://github.com/Ensues/Calculator)
+  [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=catppuccin_mocha)](https://github.com/Ensues/QR-Code-Generator) 
 </div>
 
 <p align="center">
@@ -99,7 +99,7 @@ As of now I'm specifically studying about two things:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=tokyonight&hide_border=false&layout=donut" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=catppuccin_mocha&hide_border=false&layout=donut" alt="Top Langs">
 </p>
 
 ---
