@@ -4,6 +4,8 @@
 
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. Whose coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I also like talking to sneks 🐍🐍🐍
 
+Asm of now I'm specifically studying about two things: Full Stack Web Development & Data Science
+
 <div align="center">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=tokyonight" alt="GitHub Streak" /></a>
