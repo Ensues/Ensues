@@ -38,7 +38,7 @@ As of now I'm specifically studying about two fields:
 
 <div align="center">
 
-  <h2> 🧰 Skills & Technologies 🗣️ </h2> 
+  <h2 align="left"> 🧰 Skills & Technologies 🗣️ </h2> 
 
   <img align="right" alt="totoro" width="300" src="totoro.webp" > 
 
