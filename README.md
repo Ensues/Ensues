@@ -92,16 +92,12 @@ As of now I'm interested and studying in three fields:
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="center">
     <h2> 👨‍🎓 Certificates 🖼️ </h2> 
     <img src="sololearn_data_sci_certi.png" alt="data_sci" width="425" >
 </div>
 
-<br>
-<br>
 <br>
 
 <div align="center">
