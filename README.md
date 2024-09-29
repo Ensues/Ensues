@@ -96,6 +96,15 @@ As of now I'm interested and studying in three fields:
 <br>
 
 <div align="center">
+    <h2> 👨‍🎓 Certificates 🖼️ </h2> 
+    <img src="sololearn_data_sci_certi.png" alt="data_sci" width="425" >
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
 
   [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=catppuccin_mocha)](https://github.com/Ensues/Resume-Website-V1)
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
