@@ -98,9 +98,9 @@ As of now I'm interested and studying in three fields:
     <img src="sololearn_data_sci_certi.png" alt="data_sci" width="425" >
 </div>
 
-<br>
-
 <div align="center">
+
+  <h2> 💽 Repository Info 💾</h2>
 
   [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=catppuccin_mocha)](https://github.com/Ensues/Resume-Website-V1)
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
@@ -110,13 +110,9 @@ As of now I'm interested and studying in three fields:
   <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
   ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
-<br>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=catppuccin_mocha&hide_border=false&layout=donut" alt="Top Langs">
-</p>
+</div>
 
 ---
 
