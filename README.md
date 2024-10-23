@@ -41,7 +41,7 @@ As of now I'm interested and studying in three fields:
 
   <h2 align="center"> 🧰 Skills & Technologies 🗣️ </h2> 
 
-  <img align="right" alt="totoro" width="425" src="gigi.webp" > 
+  <img align="right" alt="totoro" width="425" src="images\gigi.webp" > 
   
   #### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
