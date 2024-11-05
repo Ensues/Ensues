@@ -1,4 +1,4 @@
-<img align="center" alt="totoro" width="1000" height="300" src="images\stream.webp" > 
+<img align="center" alt="totoro" width="1000" height="150" src="images\stream.webp" > 
 
 # 🛹🏍️ Ensues 🎸📖
 
