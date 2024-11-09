@@ -102,7 +102,7 @@ As of now I'm interested and studying in three fields:
 
   <h2> 💽 Repository Info 💾</h2>
 
-  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Resume-Website-V1&theme=catppuccin_mocha)](https://github.com/Ensues/Resume-Website-V1)
+  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues.github.io&theme=catppuccin_mocha)](https://github.com/Ensues/Ensues.github.io)
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
   [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=catppuccin_mocha)](https://github.com/Ensues/Calculator)
   [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=catppuccin_mocha)](https://github.com/Ensues/QR-Code-Generator) 
