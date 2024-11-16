@@ -12,7 +12,6 @@ As of now I'm interested and studying in three fields:
 <div align="center">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=catppuccin_mocha" alt="GitHub Streak" /></a>
-  <a href="https://streak-stats.demolab.com/?user=Ensues&theme=dark" alt="GitHub Streak" /></a>
   <br> 
   <a href="https://discordapp.com/users/Sen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
