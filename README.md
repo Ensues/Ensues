@@ -37,7 +37,7 @@ As of now I'm interested and studying in three fields:
 
 ###
 
-<div>
+<div align="center">
 
   <h2 align="center"> 🧰 Skills & Technologies 🗣️ </h2> 
 
