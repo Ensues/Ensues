@@ -122,9 +122,7 @@ bip bop
 
 <div align="center">
   <div style="width: 20px;">
-    <a href="https://en.wikipedia.org/wiki/Mike_Mentzer" target="_blank">
-      <h3>"You'll never know how good you might have become unless you try"</h3>
-      <h4> - Mike Mentzer </h4>
-    <a/>
+    <h3>"You'll never know how good you might have become unless you try"</h3>
+    <h4> - Mike Mentzer </h4>
   </div>
 </div>
