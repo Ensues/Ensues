@@ -108,8 +108,8 @@ bip bop
 
   [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues.github.io&theme=catppuccin_mocha)](https://github.com/Ensues/Ensues.github.io)
   [![File Management](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Auto-File-Management&theme=catppuccin_mocha)](https://github.com/Ensues/Auto-File-Management) 
-  [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Calculator&theme=catppuccin_mocha)](https://github.com/Ensues/Calculator)
-  [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=QR-Code-Generator&theme=catppuccin_mocha)](https://github.com/Ensues/QR-Code-Generator) 
+  [![Sales Prediction Using Python](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Sales-Prediction-Using-Python&theme=catppuccin_mocha)](https://github.com/Ensues/Sales-Prediction-Using-Python)
+  [![College Appointment Booking](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=TSU-Registrars-Office-Streamlined-Appointment-Scheduling-for-Students&theme=catppuccin_mocha)](https://github.com/Ensues/TSU-Registrars-Office-Streamlined-Appointment-Scheduling-for-Students) 
 
   <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
