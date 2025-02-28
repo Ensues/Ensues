@@ -4,10 +4,16 @@
 
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. My coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I like designing, data, and money 🎨📊💸
 
-As of now I'm interested and studying in three fields:
-- <b> Full Stack Web Development </b> - HTML, CSS, & JavaScript 
-- <b> Data Science </b> - Python { Numpy, Pandas, Matplotlib }, Java, & Excel | Sheets
-- <b> Quant Analyst </b> - Python { Numpy, Pandas, Matplotlib } & Java
+As of now I'm interested and competent in two fields:
+- <b> Data Science </b>
+   - Languages: Python, Java, & SQL
+   - Framework: Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
+   - Analytics Tools: Excel, Tableau, Google Colab, & Jupyter Notebooks
+ 
+- <b> Full Stack Web Development </b>
+   - Languaages: HTML, CSS, JavaScript, PHP, & SQL
+   - Framework: Laravel & Bootstrap
+   - Database: MySQL & MS Access 
 
 <div align="center">
   <br>
@@ -70,16 +76,16 @@ As of now I'm interested and studying in three fields:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="visualstudio logo"/>
+  <img width="12" />   
 
   #### IDEs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="visualstudio logo"   />
   <img width="12" />
-  <!--- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  -->
 
   #### Tools & Tech
   <!--- 
