@@ -121,7 +121,8 @@ bip bop
 
   ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=catppuccin_mocha&hide_border=false&layout=donut" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=catppuccin_mocha&hide_border=false&layout=donut" alt="Top Langs Circ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ensues&theme=catppuccin_mocha&hide_border=false&langs_count=8&layout=compact&" width=340 alt="Top Langs List" />
 </div>
 
 ---
