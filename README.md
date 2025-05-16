@@ -6,14 +6,17 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
 As of now I'm interested and competent in two fields:
 - <b> Data Science </b>
-   - Languages: Python, Java, & SQL
-   - Framework: Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
-   - Analytics Tools: Excel, Tableau, Google Colab, & Jupyter Notebooks
- 
+   - Languages - Python, SQL, R, & Java
+   - Framework - Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
+   - Analytics Tools - Excel/Sheet, Tableau, Google Colab, Jupyter Notebooks, RMarkdown, Posit
+   - Database - Google Query
+
+<!--- 
 - <b> Full Stack Web Development </b>
    - Languaages: HTML, CSS, JavaScript, PHP, & SQL
    - Framework: Laravel & Bootstrap
-   - Database: MySQL & MS Access 
+   - Database: MySQL & MS Access
+-->
 
 <div align="center">
   <br>
@@ -50,6 +53,7 @@ As of now I'm interested and competent in two fields:
   <img align="right" alt="totoro" width="425" src="images\gigi.webp" > 
   
   #### Languages
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -58,9 +62,12 @@ As of now I'm interested and competent in two fields:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40"  alt="R logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -82,9 +89,13 @@ As of now I'm interested and competent in two fields:
   #### IDEs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />     
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="visualstudio logo"   />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="40"  alt="RStudio logo"/>
   <img width="12" />
 
   #### Tools & Tech
