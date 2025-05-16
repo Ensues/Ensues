@@ -4,12 +4,11 @@
 
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. My coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I like designing, data, and money 🎨📊💸
 
-As of now I'm interested and competent in two fields:
-- <b> Data Science </b>
-   - Languages - Python, SQL, R, & Java
-   - Framework - Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
-   - Analytics Tools - Excel/Sheet, Tableau, Google Colab, Jupyter Notebooks, RMarkdown, Posit
-   - Database - Google Query
+I am interested in Data Science and Analysis and these are what I use to do them:
+  - Languages - Python, SQL, R
+  - Framework - Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
+  - Analytics Tools - Excel/Sheet, Tableau, Google Colab, Jupyter Notebooks, RMarkdown, Posit
+  - Database - Google Query
 
 <!--- 
 - <b> Full Stack Web Development </b>
@@ -69,9 +68,9 @@ As of now I'm interested and competent in two fields:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="40" alt="visualbasic logo"  />
   <img width="12" />
   -->
