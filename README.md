@@ -38,6 +38,9 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
   <a href="https://www.linkedin.com/in/ejanssenq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
+  <a href="https://www.credly.com/users/eric-janssen-quiambao" target="_blank">
+    <img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" height="24" alt="credly logo"  />
+  </a>
   <a href="https://leetcode.com/u/ejanssenq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="LeetCode logo"  />
   </a>
