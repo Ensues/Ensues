@@ -35,8 +35,6 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 <div align="center">
 
   <h2 align="center"> 🧰 Skills & Technologies 🗣️ </h2> 
-
-  <img align="right" alt="totoro" width="425" src="images\moto.webp"> 
   
   <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -58,6 +56,8 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
   </p>
 
   <!--
+
+    <img align="right" alt="totoro" width="425" src="images\moto.webp"> 
 
   
   #### Languages
@@ -112,11 +112,6 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
   
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <div align="center">
