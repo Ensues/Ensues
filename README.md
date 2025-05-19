@@ -115,7 +115,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
 <div align="center">
 
-  <h2> 💽 Repository Info 💾</h2>
+  <h2> 💽 Git Info 💾</h2>
 
   [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues.github.io&theme=catppuccin_mocha)](https://github.com/Ensues/Ensues.github.io)
   [![Analyzing Cyclistic Bike Share Data](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Analyzing-Cyclistic-Bike-Share-Data&theme=catppuccin_mocha)](https://github.com/Ensues/Analyzing-Cyclistic-Bike-Share-Data) 
