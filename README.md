@@ -1,4 +1,4 @@
-<img align="right" alt="totoro" width="100%" src="images\rain.gif"> 
+
 
 # 🛹🏍️ Ensues 🎸📖
 
