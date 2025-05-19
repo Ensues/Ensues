@@ -25,7 +25,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
     <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
     <img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img alt="Posit" src="https://img.shields.io/badge/Posit-002366?style=for-the-badge&logo=Posit&logoColor=white" />
-    <img alt="Google Query" src="https://img.shields.io/badge/Google_Query-3670A0?style=for-the-badge&logo=Google_Query&logoColor=white"/>
+    <img alt="Google BigQuery" src="https://img.shields.io/badge/Google_BigQuery-3670A0?style=for-the-badge&logo=Google_BigQuery&logoColor=white"/>
   </p>
 
   <div align="center">
