@@ -50,7 +50,6 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=Tableau&logoColor=black" />
     <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
     <img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img alt="RMarkdown" src="https://img.shields.io/badge/RMarkdown-002366?style=for-the-badge&logo=RMarkdown&logoColor=white" />
     <img alt="Posit" src="https://img.shields.io/badge/Posit-002366?style=for-the-badge&logo=Posit&logoColor=white" />
     <img alt="Google Query" src="https://img.shields.io/badge/Google_Query-3670A0?style=for-the-badge&logo=Google_Query&logoColor=white"/>
   </p>
