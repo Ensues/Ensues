@@ -5,10 +5,24 @@
 I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. My coding projects were built from the ground up, from planning and designing all the way to solving real-life problems with code. I like designing, data, and money 🎨📊💸
 
 I am interested in Data Science and Analysis and these are what I use to do them:
-  - Languages - Python, SQL, R
-  - Framework - Numpy, Pandas, Matplotlib, Seaborn, & Scikit-learn
-  - Analytics Tools - Excel/Sheet, Tableau, Google Colab, Jupyter Notebooks, RMarkdown, Posit
-  - Database - Google Query
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="R" src="https://img.shields.io/badge/R-002366?style=for-the-badge&logo=R&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&size=40x40"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="Excel" src="https://img.shields.io/badge/excel-008000?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img alt="Sheets" src="https://img.shields.io/badge/Sheets-008000?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=Tableau&logoColor=black" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  <img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="RMarkdown" src="https://img.shields.io/badge/RMarkdown-002366?style=for-the-badge&logo=RMarkdown&logoColor=white" />
+  <img alt="Posit" src="https://img.shields.io/badge/Posit-002366?style=for-the-badge&logo=Posit&logoColor=white" />
+  <img alt="Google Query" src="https://img.shields.io/badge/Google_Query-3670A0?style=for-the-badge&logo=Google_Query&logoColor=white"/>
+</p>
 
 <!--- 
 - <b> Full Stack Web Development </b>
