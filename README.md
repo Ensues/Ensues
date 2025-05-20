@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Developer / Designer / Programmer)`**
 
-I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. I am focusing on all things data, but primarily data analysis, data science, and machine learning. But, I still have some exposure and knowledge from software and web development. I like designing, data, and money 🎨📊💸
+I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. I am focusing on all things data, but primarily data analysis, data science, and machine learning. But, I still have some exposure and knowledge from software and web development. I also like designing, data, and money 🎨📊💸
 
 ###
 
