@@ -34,6 +34,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
     <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/>
   </p>
 
   <div align="center">
