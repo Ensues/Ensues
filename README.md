@@ -28,6 +28,12 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
     <img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img alt="Posit" src="https://img.shields.io/badge/Posit-002366?style=for-the-badge&logo=Posit&logoColor=white" />
     <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-3670A0?style=for-the-badge&logo=BigQuery&logoColor=white"/>
+    <img alt="HTML" src="https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
+    <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </p>
 
   <div align="center">
