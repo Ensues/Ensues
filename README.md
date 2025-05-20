@@ -131,8 +131,10 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
   ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensues&theme=catppuccin_mocha&hide_border=false&layout=donut" alt="Top Langs Circ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ensues&theme=catppuccin_mocha&hide_border=false&langs_count=8&layout=compact&" width=340 alt="Top Langs List" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ensues&theme=catppuccin_mocha&hide_border=false&langs_count=10&layout=pie" width=340 alt="Top Langs List" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Ensues&theme=catppuccin_mocha&hide_border=false&show_icons=true" width=340 alt="Top Langs List" />
+
 </div>
 
 ---
