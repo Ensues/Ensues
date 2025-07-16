@@ -129,7 +129,7 @@ I'm a 3rd Year <b> Bachelors Of Science In Computer Science </b> student at <b> 
 
   [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues.github.io&theme=catppuccin_mocha)](https://github.com/Ensues/Ensues.github.io)
   [![Analyzing Cyclistic Bike Share Data](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Analyzing-Cyclistic-Bike-Share-Data&theme=catppuccin_mocha)](https://github.com/Ensues/Analyzing-Cyclistic-Bike-Share-Data) 
-  [![TSU-Registrars-Office-Streamlined-Appointment-Scheduling-for-Students](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=TSU-Registrars-Office-Streamlined-Appointment-Scheduling-for-Students&theme=catppuccin_mocha)](https://github.com/Ensues/TSU-Registrars-Office-Streamlined-Appointment-Scheduling-for-Students)
+  [![College-Appointment-Site](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=College-Appointment-Site&theme=catppuccin_mocha)](https://github.com/Ensues/College-Appointment-Site)
   [![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Credit-Card-Fraud-Detection&theme=catppuccin_mocha)](https://github.com/Ensues/Credit-Card-Fraud-Detection) 
 
   <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
