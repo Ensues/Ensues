@@ -1,152 +1,119 @@
-# 🛹🏍️ Ensues 🎸📖
-
-**`Digital Craftsman (Developer / Designer / Programmer)`**
-
-I'm a 4th Year <b> Bachelors Of Science In Computer Science </b> student at <b> Tarlac State University </b> helping in building the digital world one step at a time. I am focusing on all things data, but primarily data analysis, data science, and machine learning. But, I still have some exposure and knowledge from software and web development. I also like drawing, painting, hiking, exercising, data, and finance.
-
-###
-
 <div align="center">
 
-  <h2 align="center"> 🧰 Skills & Technologies 🗣️ </h2> 
-  
-  <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img alt="R" src="https://img.shields.io/badge/R-002366?style=for-the-badge&logo=R&logoColor=white"/>
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
-    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas"/>
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python"/>
-    <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&size=40x40"/>
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img alt="Excel" src="https://img.shields.io/badge/excel-008000?style=for-the-badge&logo=google-sheets&logoColor=white" />
-    <img alt="Sheets" src="https://img.shields.io/badge/Sheets-008000?style=for-the-badge&logo=google-sheets&logoColor=white" />
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=Tableau&logoColor=black" />
-    <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-    <img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img alt="Posit" src="https://img.shields.io/badge/Posit-002366?style=for-the-badge&logo=Posit&logoColor=white" />
-    <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-3670A0?style=for-the-badge&logo=BigQuery&logoColor=white"/>
-    <img alt="HTML" src="https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529"/>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
-    <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/>
-  </p>
+# 👋 Hi, I'm Eric Janssen Quiambao
 
-  <div align="center">
-  <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ensues&theme=catppuccin_mocha" alt="GitHub Streak" /></a>
-  <br> 
-  <a href="https://discordapp.com/users/Sen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ejanssenq/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.credly.com/users/eric-janssen-quiambao" target="_blank">
-    <img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" height="24" alt="credly logo"  />
-  </a>
-  <a href="https://leetcode.com/u/ejanssenq/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="LeetCode logo"  />
-  </a>
-  <a href=" https://www.hackerrank.com/profile/Ensues" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=hackerrank&logo=hackerrank&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="telegram logo"  />
-  </a>
-  <a href=" https://www.sololearn.com/en/profile/20612487" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SoloLearn&logo=SoloLearn&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="LeetCode logo"  />
-  </a>
-
-  <p></p>
-  
-  ![](https://komarev.com/ghpvc/?username=Ensues&&color=033E3E&style=flat-square&abbreviated=true)
+### `Digital Craftsman • Developer • Data Scientist • Designer`
 
 </div>
 
-  <!--
+## 🎓 About Me
 
-    <img align="right" alt="totoro" width="425" src="images\moto.webp"> 
+I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac State University**, passionate about building the digital world one step at a time. My focus lies in **data science, machine learning, and full-stack development** — transforming data into actionable insights and crafting elegant solutions to complex problems.
 
+- 🔭 Currently working on machine learning projects and data analysis
+- 🌱 Learning advanced ML algorithms and cloud technologies
+- 💼 Open to internships and collaboration opportunities
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ejanssenq/)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-002366?style=for-the-badge&logo=R&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+![PHP](https://shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+![HTML5](https://shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   
-  #### Languages
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
+  <img src="https://streak-stats.demolab.com?user=Ensues&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40"  alt="R logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="40" alt="visualbasic logo"  />
-  <img width="12" />
-
-
-  #### Data Science & Quant Analysis 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="visualstudio logo"/>
-  <img width="12" />   
-
-  #### IDEs
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="visualstudio logo"   />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="40"  alt="RStudio logo"/>
-  <img width="12" />
-
-  #### Tools & Tech
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  -->
+  <br/><br/>
   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ensues&theme=catppuccin_mocha" alt="GitHub Activity" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ensues&theme=catppuccin_mocha" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ensues&theme=catppuccin_mocha" height="180" alt="Top Languages" />
+
 </div>
 
+---
 
+## 🚀 Featured Projects
 
 <div align="center">
 
-  <h2> 💽 Git Info 💾</h2>
+### [🌐 Personal Portfolio Website](https://github.com/Ensues/Ensues.github.io)
+Interactive resume and portfolio showcasing my work
 
-  [![Resume Website](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Ensues.github.io&theme=catppuccin_mocha)](https://github.com/Ensues/Ensues.github.io)
-  [![Analyzing Cyclistic Bike Share Data](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Analyzing-Cyclistic-Bike-Share-Data&theme=catppuccin_mocha)](https://github.com/Ensues/Analyzing-Cyclistic-Bike-Share-Data) 
-  [![Monocular-VO-for-Automated-Turn-Labeling-and-CSV-Generation](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Monocular-VO-for-Automated-Turn-Labeling-and-CSV-Generation&theme=catppuccin_mocha)](https://github.com/Ensues/Monocular-VO-for-Automated-Turn-Labeling-and-CSV-Generation)
-  [![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Ensues&repo=Credit-Card-Fraud-Detection&theme=catppuccin_mocha)](https://github.com/Ensues/Credit-Card-Fraud-Detection) 
+### [🚴 Cyclistic Bike Share Analysis](https://github.com/Ensues/Analyzing-Cyclistic-Bike-Share-Data)
+Data analysis project using R to derive insights from bike-sharing data
 
-  <a href="https://github.com/Ensues?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
+### [🚗 Monocular Visual Odometry](https://github.com/Ensues/Monocular-VO-for-Automated-Turn-Labeling-and-CSV-Generation)
+Computer vision project for automated turn detection and labeling
 
-  ![snake gif](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ensues&theme=catppuccin_mocha&hide_border=false&langs_count=10&layout=pie" width=340 alt="Top Langs List" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=Ensues&theme=catppuccin_mocha&hide_border=false&show_icons=true" width=340 alt="Top Langs List" />
+### [💳 Credit Card Fraud Detection](https://github.com/Ensues/Credit-Card-Fraud-Detection)
+Machine learning model to detect fraudulent credit card transactions
+
+<a href="https://github.com/Ensues?tab=repositories" target="_blank">
+  <img alt="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repositories-6600cc?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejanssenq/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Sen/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/eric-janssen-quiambao)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ejanssenq/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Ensues)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/20612487)
 
 </div>
 
 ---
 
 <div align="center">
-  <div style="width: 20px;">
-    <h3>"You'll never know how good you might have become unless you try"</h3>
-    <h4> - Mike Mentzer </h4>
-  </div>
+
+![GitHub Activity Graph](https://github.com/Ensues/Ensues/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ensues&color=6600cc&style=for-the-badge&abbreviated=true)
+
+### 💭 _"You'll never know how good you might have become unless you try"_
+**— Mike Mentzer**
+
 </div>
