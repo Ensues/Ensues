@@ -53,16 +53,16 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Ensues&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ensues&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ensues&theme=catppuccin_mocha" alt="GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ensues&theme=monokai&hide_border=true&area=true" alt="Contribution Graph" />
   
-  <br/>
+  <br/><br/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ensues&theme=catppuccin_mocha" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ensues&theme=catppuccin_mocha" height="180" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ensues&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ensues&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
 
 </div>
 
