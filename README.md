@@ -61,7 +61,7 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Ensues&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ensues&theme=monokai&hide_border=true" alt="GitHub Streak" />
   
   <br/><br/>
   
