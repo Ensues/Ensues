@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Eric Janssen Quiambao
+# 👋 Hi, I'm Eric / Sen / Ensues
 
 ### `Digital Craftsman • Developer • Data Scientist • Designer`
 
