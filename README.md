@@ -125,7 +125,7 @@ Machine learning model to detect fraudulent credit card transactions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ensues&color=6600cc&style=for-the-badge&abbreviated=true)
 
-### 💭 _"You'll never know how good you might have become unless you try"_
+### _"You'll never know how good you might have become unless you try"_
 **— Mike Mentzer**
 
 </div>
