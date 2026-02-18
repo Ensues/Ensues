@@ -63,11 +63,7 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
   
   <img src="https://streak-stats.demolab.com?user=Ensues&theme=monokai&hide_border=true" alt="GitHub Streak" />
   
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ensues&theme=monokai&hide_border=true&area=true" alt="Contribution Graph" />
-  
-  <br/><br/>
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ensues&theme=monokai&hide_border=true&area=true" alt="Contribution Graph" />
   
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ensues&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ensues&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
