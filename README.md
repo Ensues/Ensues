@@ -13,7 +13,7 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 - 🔭 Currently working on machine learning projects and data analysis
 - 🌱 Learning advanced ML algorithms and cloud technologies
 - 💼 Open to internships and collaboration opportunities
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ejanssenq/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ericjanssenquiambao/)
 
 ---
 
@@ -108,7 +108,7 @@ Machine learning model to detect fraudulent credit card transactions
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejanssenq/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericjanssenquiambao/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Sen/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/eric-janssen-quiambao)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ejanssenq/)
