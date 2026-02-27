@@ -76,10 +76,6 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 
 <div align="center">
 
-<!--
- ![](https://github-contributor-stats.vercel.app/api?username=Ensues&limit=5&theme=monokai&combine_all_yearly_contributions=true)
--->
-
 ### [🌐 Personal Portfolio Website](https://github.com/Ensues/Ensues.github.io)
 Interactive resume and portfolio showcasing my work
 
