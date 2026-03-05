@@ -15,6 +15,19 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 - 💼 Open to internships and collaboration opportunities
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ericjanssenquiambao/)
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericjanssenquiambao/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Sen/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/eric-janssen-quiambao)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ejanssenq/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Ensues)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/20612487)
+
+</div>
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -55,19 +68,6 @@ I'm a 4th Year **Bachelor of Science in Computer Science** student at **Tarlac S
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Posit](https://img.shields.io/badge/Posit-447099?style=for-the-badge&logo=rstudio&logoColor=white)
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericjanssenquiambao/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Sen/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/eric-janssen-quiambao)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ejanssenq/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Ensues)
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/20612487)
-
-</div>
 
 ## 📊 GitHub Analytics
 
