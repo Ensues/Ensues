@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eric / Sen / Ensues
 
-### `Data Scientist • Data Analyst • Developer`
+### `Data Enthusiast • Digital Craftsman • Developer`
 
 </div>
 
