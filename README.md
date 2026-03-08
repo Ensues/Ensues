@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eric / Sen / Ensues
 
-### `Data Enthusiast • Digital Craftsman • Developer`
+### `Data Enthusiast • Coffee Dependant • Developer`
 
 </div>
 
