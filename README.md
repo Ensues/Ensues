@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm a graduate of **Bachelor of Science in Computer Science** at **Tarlac State University**, passionate about building the digital world one step at a time. Right now I'm working as a Data Management Assistant in the Provincial Governments Office, preparing for data analysis, engineering, and administration tasks. My focus lies in **data science, machine learning, and full-stack development** transforming data into actionable insights and crafting elegant solutions to complex problems.
+I'm a graduate of **Bachelor of Science in Computer Science** at **Tarlac State University**, passionate about building the digital world one step at a time. Right now I'm working as a Data Management Assistant in the Provincial Governments Office, preparing for data analysis, engineering, and administration tasks. My focus lies in **data science, data engineering, and data analysis** transforming data into actionable insights and crafting elegant solutions to complex problems.
 
 - 🔭 Currently working on machine learning projects and data analysis
 - 🌱 Learning advanced ML algorithms and cloud technologies
